@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Eric Yuji Suzuki, a passionate developer hailing from Brazil! 🇧🇷 🇯🇵</p>
+<p align="left">I'm Eric Yuji Suzuki, a passionate developer hailing from Brazil!</p>
 
 ###
 
