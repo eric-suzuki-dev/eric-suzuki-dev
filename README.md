@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Eric Yuji Suzuki, a passionate developer hailing from Brazil!</p>
+<p align="left">I'm Eric Yuji Suzuki, a passionate developer hailing from Brazil!</p> <img align="right" src="./assets/octocat.png" height="300">
 
 ###
 
@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">💻 Aspiring Front-end Developer with a keen interest in mastering Back-end and eventually becoming a Fullstack Developer.<br>🎓 Currently studying programming to achieve my goals.<br>🌱 Constantly learning and exploring new technologies to enhance my skills.</p>
+- <p align="left">💻 Aspiring Front-end Developer with a keen interest in mastering Back-end and eventually becoming a Fullstack Developer.</p>
+- <p align="left">🎓 Currently studying programming to achieve my goals.</p>
+- <p align="left">🌱 Constantly learning and exploring new technologies to enhance my skills.</p>
 
 ###
 
@@ -50,8 +52,9 @@
 
 ###
 
-<!-- <br clear="both">
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/eric-suzuki-dev/eric-suzuki-dev/output/snake.svg" alt="Snake animation" />
 
-### -->
+###
+
