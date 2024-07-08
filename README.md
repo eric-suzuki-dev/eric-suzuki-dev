@@ -84,11 +84,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eric-suzuki-dev.eric-suzuki-dev&left_color=darkgray"  />
 </div>
 
-###
+<!-- ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/eric-suzuki-dev/eric-suzuki-dev/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
 
