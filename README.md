@@ -10,7 +10,7 @@
 
 ###
 
-- <p align="left">💻 Aspiring Front-end Developer with a keen interest in mastering Back-end and eventually becoming a Fullstack Developer.</p>
+- <p align="left">💻 Aspiring Front-end Developer with a keen interest in mastering Back-end.</p>
 - <p align="left">🎓 Currently studying programming to achieve my goals.</p>
 - <p align="left">🌱 Constantly learning and exploring new technologies to enhance my skills.</p>
 
